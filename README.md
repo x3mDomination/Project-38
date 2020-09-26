@@ -1,2 +1,2 @@
-# Project-38
-Trex running game with a player name and global leaderboard.
+# p5.play-boilerplate
+Boiler plate for p5.play
